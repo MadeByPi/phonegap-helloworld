@@ -1,5 +1,4 @@
-/nbproject/private/
+/nbproject
 /.idea
-/platforms
-/merges
-/plugins
+/platforms/android/bin
+/platforms/ios/bin
